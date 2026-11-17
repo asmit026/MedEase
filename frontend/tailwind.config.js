@@ -1,0 +1,56 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  darkMode: "class",
+  theme: {
+    extend: {
+      colors: {
+        primary: "#006857",
+        "primary-container": "#20836f",
+        "primary-fixed": "#99f3dc",
+        "primary-fixed-dim": "#7dd7c0",
+        "on-primary": "#ffffff",
+        "on-primary-container": "#f4fffa",
+        "on-primary-fixed": "#00201a",
+        "on-primary-fixed-variant": "#005143",
+        secondary: "#2e6579",
+        "secondary-container": "#b3e7ff",
+        "on-secondary-container": "#33697e",
+        surface: "#f2fcf6",
+        "on-surface": "#141d1a",
+        "surface-variant": "#dbe5e0",
+        "on-surface-variant": "#3e4945",
+        "surface-container-lowest": "#ffffff",
+        "surface-container-low": "#ecf6f1",
+        "surface-container": "#e6f0eb",
+        "surface-container-high": "#e0eae5",
+        "surface-container-highest": "#dbe5e0",
+        error: "#ba1a1a",
+        "error-container": "#ffdad6",
+        "on-error": "#ffffff",
+        outline: "#6e7a75",
+        "outline-variant": "#bdc9c4",
+      },
+      fontFamily: {
+        display: ["'Plus Jakarta Sans'", "sans-serif"],
+        headline: ["'Plus Jakarta Sans'", "sans-serif"],
+        body: ["'Inter'", "sans-serif"],
+        mono: ["'JetBrains Mono'", "monospace"],
+      },
+      spacing: {
+        'space-xs': '0.25rem',
+        'space-sm': '0.5rem',
+        'space-md': '1rem',
+        'space-lg': '1.5rem',
+        'space-xl': '2.5rem',
+        'margin': '2rem',
+        'margin-mobile': '1rem',
+        'gutter': '1.5rem',
+      }
+    },
+  },
+  plugins: [],
+}
