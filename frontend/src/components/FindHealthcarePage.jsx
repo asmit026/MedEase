@@ -37,12 +37,12 @@ function ChangeView({ center, zoom }) {
 }
 
 export default function FindHealthcarePage() {
-  const { selectedSpecialty } = useAssessment();
+  const { selectedSpecialty, userLocation, locationStatus, requestUserLocation } = useAssessment();
   const [searchQuery, setSearchQuery] = useState('');
   const [facilities, setFacilities] = useState([]);
   const [loading, setLoading] = useState(true);
   const [selectedFacility, setSelectedFacility] = useState(null);
-  const [mapCenter, setMapCenter] = useState([45.4215, -75.6972]);
+  const [mapCenter, setMapCenter] = useState([userLocation?.lat || 45.4215, userLocation?.lng || -75.6972]);
   const [mapZoom, setMapZoom] = useState(13);
 
   // Default facilities fallback matching Stitch Screen
@@ -116,7 +116,12 @@ export default function FindHealthcarePage() {
   const loadFacilities = async (query = '', spec = selectedSpecialty) => {
     setLoading(true);
     try {
-      const data = await fetchNearbyFacilities({ search: query, specialty: spec });
+      const data = await fetchNearbyFacilities({
+        search: query,
+        specialty: spec,
+        lat: userLocation?.lat,
+        lng: userLocation?.lng
+      });
       if (data && data.facilities && data.facilities.length > 0) {
         setFacilities(data.facilities);
         const best = data.facilities.find(f => f.isBestMatch) || data.facilities[0];
@@ -135,8 +140,17 @@ export default function FindHealthcarePage() {
   };
 
   useEffect(() => {
+    if (locationStatus === 'prompt') {
+      requestUserLocation();
+    }
+  }, []);
+
+  useEffect(() => {
+    if (userLocation?.lat && userLocation?.lng) {
+      setMapCenter([userLocation.lat, userLocation.lng]);
+    }
     loadFacilities(searchQuery, selectedSpecialty);
-  }, [selectedSpecialty]);
+  }, [selectedSpecialty, userLocation?.lat, userLocation?.lng]);
 
   const handleSearchSubmit = (e) => {
     e.preventDefault();
@@ -176,8 +190,8 @@ export default function FindHealthcarePage() {
             </form>
 
             {/* Location Context Indicator */}
-            <div className="flex items-center justify-between sm:justify-end gap-4">
-              <div className="flex items-center gap-1.5 bg-surface-container-low px-3.5 py-2 rounded-lg border border-outline-variant/30">
+            <div className="flex items-center justify-between sm:justify-end gap-3 flex-wrap">
+              <div className="flex items-center gap-1.5 bg-surface-container-low px-3 py-1.5 rounded-lg border border-outline-variant/30">
                 <span className="material-symbols-outlined text-primary text-[18px] filled">
                   location_on
                 </span>
@@ -185,18 +199,32 @@ export default function FindHealthcarePage() {
                   <span className="font-mono uppercase tracking-wider text-outline text-[11px]">
                     Location:
                   </span>
-                  <span className="text-on-surface font-medium">Downtown Metro</span>
+                  <span className="text-on-surface font-medium truncate max-w-[140px] sm:max-w-none">
+                    {userLocation?.isDefault ? "Downtown Metro" : `${userLocation.lat.toFixed(3)}, ${userLocation.lng.toFixed(3)}`}
+                  </span>
                 </div>
-                <button
-                  type="button"
-                  onClick={() => {
-                    setMapCenter([45.4215, -75.6972]);
-                    setMapZoom(13);
-                  }}
-                  className="ml-2 text-primary font-semibold hover:text-primary-container text-xs cursor-pointer"
-                >
-                  Reset
-                </button>
+                {userLocation?.isDefault ? (
+                  <button
+                    type="button"
+                    onClick={requestUserLocation}
+                    disabled={locationStatus === 'loading'}
+                    className="ml-2 text-primary font-semibold hover:text-primary-container text-xs cursor-pointer flex items-center gap-1"
+                  >
+                    <span className="material-symbols-outlined text-[14px]">my_location</span>
+                    <span>{locationStatus === 'loading' ? 'Locating...' : 'Use GPS'}</span>
+                  </button>
+                ) : (
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setMapCenter([45.4215, -75.6972]);
+                      setMapZoom(13);
+                    }}
+                    className="ml-2 text-primary font-semibold hover:text-primary-container text-xs cursor-pointer"
+                  >
+                    Reset
+                  </button>
+                )}
               </div>
 
               <div className="hidden sm:flex items-center gap-2">

@@ -4,7 +4,7 @@ import { useAssessment } from '../context/AssessmentContext';
 
 export default function ResultsPage() {
   const navigate = useNavigate();
-  const { triageResult, symptoms, setSelectedSpecialty } = useAssessment();
+  const { triageResult, symptoms, setSelectedSpecialty, resetAssessment } = useAssessment();
 
   // If user arrives directly without assessment, provide realistic fallback matching Stitch
   const fallbackResult = {
@@ -184,6 +184,17 @@ export default function ResultsPage() {
             >
               Edit answers
             </Link>
+            <button
+              type="button"
+              onClick={() => {
+                resetAssessment();
+                navigate('/assessment');
+              }}
+              className="inline-flex items-center justify-center gap-1.5 bg-surface-container-low text-on-surface-variant text-xs font-medium px-4 py-2 rounded-lg hover:bg-surface-container-high hover:text-on-surface transition-colors text-center cursor-pointer"
+            >
+              <span className="material-symbols-outlined text-[15px]">refresh</span>
+              <span>Restart Assessment</span>
+            </button>
           </div>
         </div>
 

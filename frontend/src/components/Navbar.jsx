@@ -1,8 +1,10 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import { useAssessment } from '../context/AssessmentContext';
 
 export default function Navbar() {
   const location = useLocation();
+  const { resetAssessment } = useAssessment();
   const currentPath = location.pathname;
 
   const isAssessmentActive = currentPath === '/assessment' || currentPath === '/results';
@@ -46,6 +48,7 @@ export default function Navbar() {
         <div className="flex items-center gap-4">
           <Link
             to="/assessment"
+            onClick={() => resetAssessment()}
             className="inline-flex items-center justify-center bg-primary text-on-primary text-sm font-medium px-4 py-2 rounded-lg hover:bg-primary-container transition-colors shadow-none"
           >
             Start Assessment
