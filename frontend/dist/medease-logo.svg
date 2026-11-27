@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" width="160" height="40" fill="none">
+  <rect x="2" y="6" width="28" height="28" rx="7" fill="#E6F2EE" stroke="#2D8C78" stroke-width="1.5"/>
+  <path d="M16 11V29M7 20H25" stroke="#2D8C78" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="21" cy="15" r="2.5" fill="#2D8C78"/>
+  <text x="38" y="25" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="700" font-size="16" fill="#17201D" letter-spacing="-0.02em">MedEase</text>
+  <rect x="115" y="14" width="24" height="15" rx="3" fill="#17201D"/>
+  <text x="119" y="24" font-family="system-ui, sans-serif" font-weight="800" font-size="9" fill="#FFFFFF" letter-spacing="0.05em">AI</text>
+</svg>

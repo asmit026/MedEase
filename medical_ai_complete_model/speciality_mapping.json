@@ -1,0 +1,2741 @@
+{
+  "condition_to_specialities": {
+    "1033009": [
+      "Immunologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "10509002": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "10528009": [
+      "Dermatologist",
+      "Internal medicine specialist"
+    ],
+    "10623005": [
+      "Endocrinologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "10743008": [
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician"
+    ],
+    "109385007": [
+      "Dermatologist",
+      "Internal medicine specialist"
+    ],
+    "110030002": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "111196000": [
+      "Dermatologist",
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "111202002": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "111243002": [
+      "Orthopedic"
+    ],
+    "111245009": [
+      "Intensivist",
+      "Trauma Specialist",
+      "Orthopedic"
+    ],
+    "111255008": [
+      "Orthopedic"
+    ],
+    "111522004": [
+      "Ophthalmologist"
+    ],
+    "111541001": [
+      "Neurologist",
+      "ENT",
+      "General Physician"
+    ],
+    "111864006": [
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "1119303003": [
+      "Pulmonologist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "11543004": [
+      "ENT"
+    ],
+    "115665000": [
+      "Pulmonologist",
+      "Dermatologist",
+      "Immunologist",
+      "ENT",
+      "Allergy specialist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "11654001": [
+      "Physiotherapist",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "11687002": [
+      "Diabetologist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "Gynaecologist"
+    ],
+    "12295008": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "123471000119103": [
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "124134002": [
+      "Clinical haematologist",
+      "Internal medicine specialist"
+    ],
+    "125594001": [
+      "Plastic Surgeon",
+      "Internal medicine specialist",
+      "General Physician",
+      "Orthopedic",
+      "Paediatrician"
+    ],
+    "125601008": [
+      "Internal medicine specialist",
+      "General Physician",
+      "Orthopedic",
+      "Paediatrician"
+    ],
+    "125604000": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "125606003": [
+      "Trauma Specialist",
+      "Neurosurgeon",
+      "Orthopedic"
+    ],
+    "125608002": [
+      "Neurosurgeon",
+      "Orthopedic"
+    ],
+    "125668004": [
+      "Orthopedic"
+    ],
+    "126485001": [
+      "Dermatologist",
+      "Immunologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "126537000": [
+      "Oncologist",
+      "Orthopedic"
+    ],
+    "126660000": [
+      "ENT"
+    ],
+    "126949007": [
+      "ENT"
+    ],
+    "127013003": [
+      "Nephrologist",
+      "Urologist",
+      "Endocrinologist",
+      "Diabetologist",
+      "Internal medicine specialist"
+    ],
+    "127014009": [
+      "Endocrinologist",
+      "General Surgeon",
+      "Diabetologist",
+      "Internal medicine specialist",
+      "Vascular medicine specialist"
+    ],
+    "127295002": [
+      "Neurologist",
+      "Ophthalmologist",
+      "ENT",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "128045006": [
+      "General Surgeon",
+      "Diabetologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "128053003": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Vascular medicine specialist"
+    ],
+    "128060009": [
+      "General Surgeon",
+      "Vascular medicine specialist"
+    ],
+    "128105004": [
+      "Clinical haematologist",
+      "Internal medicine specialist"
+    ],
+    "128200000": [
+      "Neurologist",
+      "Trauma Specialist",
+      "Orthopedic"
+    ],
+    "128209004": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "128210009": [
+      "Neurologist",
+      "Chest Physician",
+      "Internal medicine specialist",
+      "Vascular medicine specialist",
+      "Orthopedic"
+    ],
+    "128608001": [
+      "Neurologist",
+      "Radiologist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "128869009": [
+      "Dermatologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "129103003": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "132721000119104": [
+      "Cardiologist",
+      "Internal medicine specialist"
+    ],
+    "13445001": [
+      "Neurologist",
+      "ENT"
+    ],
+    "13600006": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "13644009": [
+      "Internal medicine specialist"
+    ],
+    "13645005": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "13746004": [
+      "Psychiatrist"
+    ],
+    "13758004": [
+      "General Surgeon",
+      "Plastic Surgeon",
+      "Dermatologist"
+    ],
+    "13842006": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "14077003": [
+      "Psychiatrist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "14094001": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "14168008": [
+      "General Surgeon",
+      "Internal medicine specialist"
+    ],
+    "14189004": [
+      "General Physician",
+      "Paediatrician"
+    ],
+    "14304000": [
+      "Endocrinologist",
+      "General Surgeon",
+      "Internal medicine specialist"
+    ],
+    "146799005": [
+      "Radiologist",
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "1475003": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "1482004": [
+      "Ophthalmologist",
+      "General Physician"
+    ],
+    "1489008": [
+      "Ophthalmologist",
+      "General Physician"
+    ],
+    "1539003": [
+      "General Physician",
+      "Orthopedic"
+    ],
+    "154283005": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "15574005": [
+      "Orthopedic"
+    ],
+    "15628003": [
+      "Urologist",
+      "General Surgeon",
+      "Dermatologist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "Gynaecologist"
+    ],
+    "156370009": [
+      "Rheumatologist",
+      "Dermatologist",
+      "Immunologist",
+      "Orthopedic"
+    ],
+    "157176002": [
+      "Dentist",
+      "Oral & Maxillofacial Surgeon",
+      "Orthopedic"
+    ],
+    "157265008": [
+      "Orthopedic"
+    ],
+    "157266009": [
+      "Orthopedic"
+    ],
+    "157271002": [
+      "Orthopedic"
+    ],
+    "15771004": [
+      "Nephrologist",
+      "Endocrinologist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "15938005": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "161501007": [
+      "Cardiologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "16607004": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "16631009": [
+      "Neurologist",
+      "Physiotherapist",
+      "Internal medicine specialist"
+    ],
+    "17467004": [
+      "ENT",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "1771000119109": [
+      "Immunologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "17883008": [
+      "Orthopedic"
+    ],
+    "18070006": [
+      "ENT",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "18140003": [
+      "ENT",
+      "General Physician"
+    ],
+    "18171007": [
+      "Orthopedic"
+    ],
+    "186729003": [
+      "Urologist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "Gynaecologist"
+    ],
+    "189179009": [
+      "Neurologist",
+      "Endocrinologist",
+      "Neurosurgeon"
+    ],
+    "18973006": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "190634004": [
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "191306005": [
+      "Nephrologist",
+      "Rheumatologist",
+      "Internal medicine specialist"
+    ],
+    "19133005": [
+      "Neurologist",
+      "Clinical geneticist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "191480000": [
+      "Psychiatrist",
+      "Internal medicine specialist"
+    ],
+    "191736004": [
+      "Psychiatrist"
+    ],
+    "191983006": [
+      "Psychiatrist",
+      "Dentist"
+    ],
+    "192685000": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "192970008": [
+      "Neurosurgeon",
+      "Orthopedic"
+    ],
+    "192976002": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "193031009": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "193093009": [
+      "Neurologist",
+      "ENT",
+      "Internal medicine specialist"
+    ],
+    "193462001": [
+      "Psychiatrist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "19362000": [
+      "Pulmonologist",
+      "Intensivist",
+      "Dermatologist",
+      "Allergy specialist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "194828000": [
+      "Cardiologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "195967001": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "196491008": [
+      "General Surgeon",
+      "ENT"
+    ],
+    "196542004": [
+      "Dentist",
+      "ENT"
+    ],
+    "197321007": [
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "197456007": [
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician"
+    ],
+    "198130006": [
+      "Obstetrician",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "19843006": [
+      "General Surgeon",
+      "Plastic Surgeon",
+      "Dermatologist"
+    ],
+    "19886006": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "19943007": [
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician"
+    ],
+    "20016009": [
+      "Obstetrician",
+      "Gynaecologist",
+      "Paediatrician"
+    ],
+    "200635001": [
+      "General Surgeon",
+      "Orthopedic"
+    ],
+    "201040000": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "201112007": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "201637001": [
+      "Rheumatologist",
+      "Orthopedic"
+    ],
+    "202708005": [
+      "Neurologist",
+      "Orthopedic"
+    ],
+    "202855006": [
+      "Internal medicine specialist",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "202882003": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "203082005": [
+      "Neurologist",
+      "Clinical geneticist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "203468000": [
+      "Orthopedic"
+    ],
+    "20511007": [
+      "Orthopedic"
+    ],
+    "20610004": [
+      "ENT",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "20848007": [
+      "Dermatologist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "2089002": [
+      "Orthopedic"
+    ],
+    "21007002": [
+      "Neurologist",
+      "Psychiatrist",
+      "Internal medicine specialist"
+    ],
+    "21186006": [
+      "ENT",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "212372004": [
+      "Intensivist",
+      "Trauma Specialist",
+      "Orthopedic"
+    ],
+    "21351003": [
+      "Orthopedic"
+    ],
+    "21454007": [
+      "Neurologist",
+      "Radiologist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "21794005": [
+      "General Physician",
+      "Orthopedic"
+    ],
+    "21897009": [
+      "Psychiatrist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "21954000": [
+      "Neurologist",
+      "ENT",
+      "Internal medicine specialist"
+    ],
+    "21983002": [
+      "General Surgeon",
+      "Internal medicine specialist"
+    ],
+    "22053006": [
+      "Andrologist",
+      "Obstetrician",
+      "Gynaecologist",
+      "Paediatrician"
+    ],
+    "22193007": [
+      "Orthopedic"
+    ],
+    "230192003": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "230297002": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "230456007": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "23056005": [
+      "Spine Surgeon",
+      "Orthopedic"
+    ],
+    "230572002": [
+      "Neurologist",
+      "Endocrinologist",
+      "Diabetologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "230631009": [
+      "Neurologist",
+      "Orthopedic"
+    ],
+    "230634001": [
+      "Neurologist",
+      "Orthopedic"
+    ],
+    "230690007": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "230722002": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "230745008": [
+      "General Surgeon",
+      "Neurosurgeon",
+      "Paediatrician"
+    ],
+    "23097003": [
+      "Intensivist",
+      "Internal medicine specialist"
+    ],
+    "232377002": [
+      "ENT"
+    ],
+    "232407000": [
+      "ENT"
+    ],
+    "233604007": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "233850007": [
+      "Cardiologist",
+      "Internal medicine specialist"
+    ],
+    "233959009": [
+      "Vascular medicine specialist",
+      "Orthopedic"
+    ],
+    "235494005": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "235595009": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician"
+    ],
+    "23697004": [
+      "Nephrologist",
+      "Internal medicine specialist",
+      "Trauma Specialist",
+      "Orthopedic"
+    ],
+    "237055002": [
+      "IVF Specialist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "237602007": [
+      "Cardiologist",
+      "Diabetologist",
+      "Internal medicine specialist"
+    ],
+    "237662005": [
+      "Neurologist",
+      "Endocrinologist",
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "237684005": [
+      "Endocrinologist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "Gynaecologist"
+    ],
+    "237722004": [
+      "Neurologist",
+      "Endocrinologist",
+      "Neurosurgeon"
+    ],
+    "237751000": [
+      "Nephrologist",
+      "Endocrinologist",
+      "Paediatrician"
+    ],
+    "238968009": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "23919004": [
+      "Neurologist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "239720000": [
+      "Physiotherapist",
+      "Orthopedic"
+    ],
+    "23986001": [
+      "Ophthalmologist"
+    ],
+    "239872002": [
+      "Orthopedic"
+    ],
+    "239873007": [
+      "General Physician",
+      "Orthopedic"
+    ],
+    "239880009": [
+      "Spine Surgeon",
+      "Internal medicine specialist",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "239960007": [
+      "Physiotherapist",
+      "Orthopedic"
+    ],
+    "239961006": [
+      "Orthopedic"
+    ],
+    "240008008": [
+      "Orthopedic"
+    ],
+    "240215009": [
+      "Neurologist",
+      "Orthopedic"
+    ],
+    "240216005": [
+      "Neurologist",
+      "Orthopedic"
+    ],
+    "240542006": [
+      "Urologist",
+      "Dermatologist",
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "240696004": [
+      "Dermatologist"
+    ],
+    "240820001": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "2415007": [
+      "Spine Surgeon",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "24700007": [
+      "Neurologist",
+      "Physiotherapist",
+      "Internal medicine specialist"
+    ],
+    "247389006": [
+      "Neurologist",
+      "Orthopedic"
+    ],
+    "25044007": [
+      "Neurologist",
+      "Ophthalmologist"
+    ],
+    "25093002": [
+      "Ophthalmologist",
+      "Endocrinologist",
+      "Diabetologist",
+      "Internal medicine specialist"
+    ],
+    "253259008": [
+      "General Surgeon",
+      "ENT"
+    ],
+    "254837009": [
+      "Oncologist",
+      "General Surgeon",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "254845004": [
+      "General Surgeon",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "2556008": [
+      "Dentist",
+      "General Physician"
+    ],
+    "2576002": [
+      "Ophthalmologist"
+    ],
+    "26039008": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "263030002": [
+      "Orthopedic"
+    ],
+    "263128001": [
+      "Orthopedic"
+    ],
+    "263129009": [
+      "Orthopedic"
+    ],
+    "263172003": [
+      "Oral & Maxillofacial Surgeon",
+      "ENT",
+      "Orthopedic"
+    ],
+    "26435006": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "26538006": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "266113007": [
+      "Urologist",
+      "Dermatologist",
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "26614003": [
+      "General Surgeon",
+      "General Physician"
+    ],
+    "266257000": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "266569009": [
+      "Urologist",
+      "General Surgeon",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "266579006": [
+      "General Surgeon",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "267103008": [
+      "ENT"
+    ],
+    "26843008": [
+      "Neurologist",
+      "Rheumatologist",
+      "Immunologist",
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "26929004": [
+      "Neurologist",
+      "Psychiatrist"
+    ],
+    "271425001": [
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "271558008": [
+      "ENT",
+      "Internal medicine specialist",
+      "Paediatrician"
+    ],
+    "271737000": [
+      "Obstetrician",
+      "Clinical haematologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Gynaecologist",
+      "Paediatrician"
+    ],
+    "2734": [
+      "Rheumatologist",
+      "Dermatologist",
+      "Immunologist",
+      "Internal medicine specialist"
+    ],
+    "274134003": [
+      "Dentist",
+      "Dermatologist",
+      "ENT"
+    ],
+    "274142002": [
+      "General Surgeon",
+      "Orthopedic"
+    ],
+    "274152003": [
+      "Neurosurgeon",
+      "Orthopedic"
+    ],
+    "27601005": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "276319003": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "279040009": [
+      "Physiotherapist",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "27982003": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "28111002": [
+      "ENT"
+    ],
+    "281623008": [
+      "Urologist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "Gynaecologist"
+    ],
+    "282752000": [
+      "Ophthalmologist",
+      "General Physician"
+    ],
+    "284062002": [
+      "Orthopedic"
+    ],
+    "28432003": [
+      "General Surgeon",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "2858002": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "28651003": [
+      "Cardiologist",
+      "Internal medicine specialist"
+    ],
+    "28670008": [
+      "General Surgeon",
+      "Gastroenterologist"
+    ],
+    "2897005": [
+      "Clinical haematologist",
+      "Internal medicine specialist"
+    ],
+    "289903006": [
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "297159008": [
+      "ENT"
+    ],
+    "30037006": [
+      "General Surgeon",
+      "Gastroenterologist",
+      "General Physician"
+    ],
+    "302835009": [
+      "Endocrinologist",
+      "General Surgeon",
+      "Internal medicine specialist"
+    ],
+    "302866003": [
+      "Endocrinologist",
+      "Diabetologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "302914006": [
+      "General Surgeon",
+      "Gastroenterologist"
+    ],
+    "30292005": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "302941001": [
+      "Orthopedic"
+    ],
+    "30664006": [
+      "Endocrinologist",
+      "General Surgeon",
+      "Internal medicine specialist"
+    ],
+    "307496006": [
+      "General Surgeon",
+      "Gastroenterologist"
+    ],
+    "30800001": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "309246000": [
+      "Orthopedic"
+    ],
+    "310701003": [
+      "Ophthalmologist",
+      "Rheumatologist",
+      "Dermatologist",
+      "Internal medicine specialist"
+    ],
+    "3110003": [
+      "ENT",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "3135009": [
+      "ENT",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "31384009": [
+      "Neurologist",
+      "Rheumatologist",
+      "Immunologist"
+    ],
+    "31681005": [
+      "Neurologist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "3199001": [
+      "Orthopedic"
+    ],
+    "3238004": [
+      "Cardiologist",
+      "Intensivist",
+      "Internal medicine specialist"
+    ],
+    "32398004": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "32861005": [
+      "Rheumatologist",
+      "Dermatologist"
+    ],
+    "32914008": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "33528003": [
+      "ENT"
+    ],
+    "33595009": [
+      "Neurosurgeon"
+    ],
+    "33659008": [
+      "General Surgeon",
+      "Plastic Surgeon",
+      "Dermatologist"
+    ],
+    "33737001": [
+      "Intensivist",
+      "Orthopedic"
+    ],
+    "33839006": [
+      "Dermatologist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "Gynaecologist"
+    ],
+    "34000006": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "34014006": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "34129005": [
+      "ENT"
+    ],
+    "34486009": [
+      "Endocrinologist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "34571000": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "34713006": [
+      "Internal medicine specialist",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "34742003": [
+      "General Surgeon",
+      "Gastroenterologist"
+    ],
+    "34801009": [
+      "Obstetrician",
+      "Internal medicine specialist",
+      "Gynaecologist"
+    ],
+    "3502005": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "35386004": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "35489007": [
+      "Psychiatrist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "359837005": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "35984006": [
+      "Neurosurgeon",
+      "Orthopedic"
+    ],
+    "360450007": [
+      "General Physician",
+      "Orthopedic"
+    ],
+    "36083008": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "36209000": [
+      "Dermatologist",
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "363354003": [
+      "Oncologist",
+      "Obstetrician",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "363732003": [
+      "Endocrinologist",
+      "Internal medicine specialist"
+    ],
+    "368009": [
+      "Cardiologist",
+      "Internal medicine specialist",
+      "Paediatrician"
+    ],
+    "36813001": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "36971009": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "36976004": [
+      "Endocrinologist",
+      "General Surgeon",
+      "Internal medicine specialist"
+    ],
+    "36989005": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "370977006": [
+      "Plastic Surgeon",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "371081002": [
+      "Immunologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "371087003": [
+      "Endocrinologist",
+      "General Surgeon",
+      "Plastic Surgeon",
+      "Diabetologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "37151006": [
+      "Neurologist",
+      "Rheumatologist",
+      "Dermatologist",
+      "Internal medicine specialist"
+    ],
+    "3723001": [
+      "Spine Surgeon",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "37340000": [
+      "Neurologist",
+      "Physiotherapist",
+      "Internal medicine specialist"
+    ],
+    "37372002": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "3738000": [
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician"
+    ],
+    "37785001": [
+      "Orthopedic"
+    ],
+    "37796009": [
+      "Neurologist",
+      "Ophthalmologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "37869000": [
+      "Rheumatologist",
+      "Dermatologist"
+    ],
+    "38101003": [
+      "Ophthalmologist"
+    ],
+    "38341003": [
+      "Nephrologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "38362002": [
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "38481006": [
+      "Nephrologist",
+      "Endocrinologist",
+      "Diabetologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "385093006": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "386584007": [
+      "Endocrinologist",
+      "Internal medicine specialist"
+    ],
+    "387800004": [
+      "Neurologist",
+      "Spine Surgeon",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "38804009": [
+      "Endocrinologist",
+      "Gynaecologist",
+      "Paediatrician"
+    ],
+    "38822007": [
+      "Nephrologist",
+      "Urologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "38907003": [
+      "Dermatologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "39450006": [
+      "Ophthalmologist"
+    ],
+    "396232000": [
+      "General Surgeon",
+      "General Physician"
+    ],
+    "396234004": [
+      "Orthopedic"
+    ],
+    "396275006": [
+      "Spine Surgeon",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "396285007": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "397430003": [
+      "Internal medicine specialist"
+    ],
+    "397758007": [
+      "Orthopedic"
+    ],
+    "397825006": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "397827003": [
+      "Endocrinologist",
+      "Internal medicine specialist",
+      "Paediatrician"
+    ],
+    "398057008": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "39812007": [
+      "Orthopedic"
+    ],
+    "398254007": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "398565003": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Paediatrician"
+    ],
+    "398665005": [
+      "Cardiologist",
+      "Internal medicine specialist"
+    ],
+    "398760006": [
+      "Neurologist",
+      "Ophthalmologist"
+    ],
+    "399029005": [
+      "Dermatologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "399068003": [
+      "Urologist",
+      "Oncologist",
+      "General Surgeon",
+      "Internal medicine specialist"
+    ],
+    "399114005": [
+      "General Physician",
+      "Orthopedic"
+    ],
+    "399183005": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "399329002": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "399882002": [
+      "General Surgeon",
+      "Radiologist",
+      "Paediatrician"
+    ],
+    "400047006": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Vascular medicine specialist",
+      "General Physician"
+    ],
+    "400097005": [
+      "General Surgeon",
+      "Dermatologist",
+      "General Physician"
+    ],
+    "400200009": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "400201008": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "40070004": [
+      "Dermatologist",
+      "Paediatrician"
+    ],
+    "40108008": [
+      "Clinical haematologist",
+      "Internal medicine specialist"
+    ],
+    "402134005": [
+      "Dermatologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "402222007": [
+      "Dermatologist",
+      "Internal medicine specialist",
+      "Paediatrician"
+    ],
+    "40257000": [
+      "General Physician",
+      "Orthopedic"
+    ],
+    "402599005": [
+      "Endocrinologist",
+      "Dermatologist",
+      "Internal medicine specialist"
+    ],
+    "405737000": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "408335007": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "40930008": [
+      "Endocrinologist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "40956001": [
+      "Neurologist",
+      "Physiotherapist",
+      "Internal medicine specialist"
+    ],
+    "41256004": [
+      "Ophthalmologist"
+    ],
+    "41309000": [
+      "General Surgeon",
+      "Gastroenterologist"
+    ],
+    "414033006": [
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "414293001": [
+      "Orthopedic"
+    ],
+    "414916001": [
+      "General Surgeon",
+      "Internal medicine specialist"
+    ],
+    "414941008": [
+      "Dermatologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "415105001": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "415692008": [
+      "Orthopedic"
+    ],
+    "416675009": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "416893007": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "417076003": [
+      "Orthopedic"
+    ],
+    "417109008": [
+      "Orthopedic"
+    ],
+    "417357006": [
+      "Clinical haematologist",
+      "Internal medicine specialist"
+    ],
+    "417558002": [
+      "Orthopedic"
+    ],
+    "418186002": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "418470004": [
+      "Neurologist",
+      "Dermatologist",
+      "Clinical haematologist",
+      "Internal medicine specialist"
+    ],
+    "419760006": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "419893006": [
+      "General Surgeon",
+      "Dermatologist"
+    ],
+    "420422005": [
+      "Endocrinologist",
+      "Diabetologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "42343007": [
+      "Cardiologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "425852005": [
+      "Orthopedic"
+    ],
+    "426965005": [
+      "Dentist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "429513001": [
+      "Orthopedic"
+    ],
+    "43116000": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "43548008": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "43763009": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "43891009": [
+      "Dermatologist",
+      "Internal medicine specialist"
+    ],
+    "44054006": [
+      "Endocrinologist",
+      "Diabetologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "443798008": [
+      "Immunologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "444158007": [
+      "Physiotherapist",
+      "Orthopedic"
+    ],
+    "444248002": [
+      "Ophthalmologist",
+      "Rheumatologist",
+      "Immunologist"
+    ],
+    "44465007": [
+      "Physiotherapist",
+      "Orthopedic"
+    ],
+    "445008009": [
+      "General Surgeon",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "44551007": [
+      "Orthopedic"
+    ],
+    "44653001": [
+      "Dermatologist"
+    ],
+    "447330002": [
+      "General Surgeon",
+      "Pulmonologist",
+      "Gastroenterologist"
+    ],
+    "44801007": [
+      "Orthopedic"
+    ],
+    "448589005": [
+      "Immunologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "449097000": [
+      "General Surgeon",
+      "Internal medicine specialist"
+    ],
+    "449826002": [
+      "General Surgeon",
+      "Plastic Surgeon",
+      "Andrologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "44991000119100": [
+      "IVF Specialist",
+      "Obstetrician",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "4556007": [
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "45613006": [
+      "General Physician",
+      "Orthopedic"
+    ],
+    "45913009": [
+      "Pulmonologist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "4598005": [
+      "Endocrinologist",
+      "Orthopedic"
+    ],
+    "46090001": [
+      "General Surgeon",
+      "Dermatologist"
+    ],
+    "46635009": [
+      "Endocrinologist",
+      "Diabetologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "46659004": [
+      "Neurologist",
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "47270006": [
+      "Nephrologist",
+      "Endocrinologist",
+      "Pediatric Nephrologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "472969004": [
+      "Endocrinologist",
+      "Diabetologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "47382004": [
+      "Dermatologist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "4740000": [
+      "Dermatologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "47639008": [
+      "General Surgeon",
+      "General Physician"
+    ],
+    "4776004": [
+      "Dermatologist"
+    ],
+    "48277006": [
+      "Dermatologist",
+      "Paediatrician"
+    ],
+    "4834000": [
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "48723006": [
+      "Urologist",
+      "Andrologist"
+    ],
+    "48971001": [
+      "Dermatologist"
+    ],
+    "49049000": [
+      "Neurologist",
+      "Psychiatrist",
+      "Internal medicine specialist"
+    ],
+    "4927003": [
+      "Ophthalmologist",
+      "Rheumatologist",
+      "Immunologist"
+    ],
+    "49420001": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "49526009": [
+      "Neurologist",
+      "ENT"
+    ],
+    "49882001": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "50448004": [
+      "Spine Surgeon",
+      "Orthopedic"
+    ],
+    "50563003": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "51037009": [
+      "Orthopedic"
+    ],
+    "51070004": [
+      "Urologist",
+      "General Surgeon"
+    ],
+    "51523009": [
+      "General Surgeon",
+      "ENT"
+    ],
+    "52011008": [
+      "General Surgeon",
+      "Plastic Surgeon",
+      "Dermatologist",
+      "Internal medicine specialist",
+      "Vascular medicine specialist",
+      "General Physician",
+      "Orthopedic",
+      "Paediatrician"
+    ],
+    "52254009": [
+      "Nephrologist",
+      "Urologist",
+      "Intensivist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "52404001": [
+      "Neurologist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "52441000": [
+      "Obstetrician",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "52448006": [
+      "Neurologist",
+      "Psychiatrist",
+      "Internal medicine specialist"
+    ],
+    "5291005": [
+      "Intensivist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "52947006": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "53165003": [
+      "Clinical haematologist",
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "53226007": [
+      "General Physician",
+      "Orthopedic"
+    ],
+    "53286005": [
+      "Physiotherapist",
+      "Orthopedic"
+    ],
+    "53316003": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "54048003": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "54150009": [
+      "Pulmonologist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "5441008": [
+      "Dermatologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "54888009": [
+      "Orthopedic"
+    ],
+    "55260003": [
+      "Orthopedic"
+    ],
+    "55464009": [
+      "Rheumatologist",
+      "Dermatologist",
+      "Immunologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "56317004": [
+      "Endocrinologist",
+      "Dermatologist",
+      "Immunologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "5662003": [
+      "General Physician",
+      "Orthopedic"
+    ],
+    "56727007": [
+      "Dermatologist"
+    ],
+    "56882008": [
+      "Psychiatrist",
+      "Internal medicine specialist",
+      "Paediatrician"
+    ],
+    "57019003": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "57044006": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "57054005": [
+      "Cardiologist",
+      "Internal medicine specialist",
+      "Vascular medicine specialist",
+      "General Physician"
+    ],
+    "57190000": [
+      "Ophthalmologist",
+      "Paediatrician"
+    ],
+    "57406009": [
+      "Neurologist",
+      "Plastic Surgeon",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "58075000": [
+      "General Physician",
+      "Orthopedic"
+    ],
+    "58150001": [
+      "Trauma Specialist",
+      "Orthopedic"
+    ],
+    "58381000": [
+      "Clinical haematologist",
+      "Internal medicine specialist"
+    ],
+    "58690002": [
+      "Psychiatrist"
+    ],
+    "58703003": [
+      "Psychiatrist",
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "58756001": [
+      "Neurologist",
+      "Physiotherapist",
+      "Internal medicine specialist"
+    ],
+    "58851004": [
+      "Obstetrician",
+      "Gynaecologist",
+      "Paediatrician"
+    ],
+    "59051007": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "59282003": [
+      "Cardiologist",
+      "Pulmonologist",
+      "Intensivist",
+      "Internal medicine specialist",
+      "Vascular medicine specialist"
+    ],
+    "60046008": [
+      "Pulmonologist",
+      "Intensivist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "6020002": [
+      "Dermatologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "60380001": [
+      "Neurologist",
+      "Psychiatrist"
+    ],
+    "60404007": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "61170000": [
+      "Dentist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "61462000": [
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "61530001": [
+      "Endocrinologist",
+      "General Surgeon",
+      "Internal medicine specialist"
+    ],
+    "61582004": [
+      "Pulmonologist",
+      "Immunologist",
+      "ENT",
+      "Allergy specialist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "63375009": [
+      "Orthopedic"
+    ],
+    "64109004": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "64766004": [
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician"
+    ],
+    "64859006": [
+      "Endocrinologist",
+      "Spine Surgeon",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "65275009": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician"
+    ],
+    "65363002": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "65619001": [
+      "General Surgeon",
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "65636009": [
+      "Ophthalmologist"
+    ],
+    "65966004": [
+      "Trauma Specialist",
+      "Orthopedic"
+    ],
+    "66264000": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "66308002": [
+      "Orthopedic"
+    ],
+    "66931009": [
+      "Endocrinologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "67624004": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "68142008": [
+      "Orthopedic"
+    ],
+    "68225006": [
+      "Endocrinologist",
+      "Dermatologist",
+      "Immunologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "68267002": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "68449006": [
+      "Immunologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "68566005": [
+      "Nephrologist",
+      "Urologist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "68675004": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "68859000": [
+      "Physiotherapist",
+      "Orthopedic"
+    ],
+    "69195002": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "69776003": [
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "69787006": [
+      "Orthopedic"
+    ],
+    "698247007": [
+      "Cardiologist",
+      "Internal medicine specialist",
+      "Paediatrician"
+    ],
+    "69896004": [
+      "Rheumatologist",
+      "Immunologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "699302001": [
+      "Immunologist",
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "70020005": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "70153002": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician"
+    ],
+    "70650003": [
+      "Nephrologist",
+      "Urologist",
+      "General Surgeon",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "70704007": [
+      "Orthopedic"
+    ],
+    "70736000": [
+      "Orthopedic"
+    ],
+    "709044004": [
+      "Nephrologist",
+      "Urologist",
+      "Diabetologist",
+      "Pediatric Nephrologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "71186008": [
+      "Pulmonologist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "715192004": [
+      "General Surgeon",
+      "Gastroenterologist"
+    ],
+    "71620000": [
+      "Orthopedic"
+    ],
+    "71760005": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "7180009": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "72000004": [
+      "Ophthalmologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "721188000": [
+      "Endocrinologist",
+      "General Surgeon",
+      "Internal medicine specialist"
+    ],
+    "721764008": [
+      "Neurologist",
+      "Physiotherapist",
+      "Internal medicine specialist",
+      "Paediatrician"
+    ],
+    "72535009": [
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "72779005": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician"
+    ],
+    "72934000": [
+      "Obstetrician",
+      "Internal medicine specialist",
+      "General Physician",
+      "Gynaecologist"
+    ],
+    "73297009": [
+      "Neurologist",
+      "General Surgeon",
+      "Physiotherapist",
+      "Internal medicine specialist"
+    ],
+    "73452002": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "735476006": [
+      "Urologist",
+      "General Surgeon",
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "73589001": [
+      "Spine Surgeon",
+      "General Physician",
+      "Orthopedic"
+    ],
+    "73692007": [
+      "Dermatologist",
+      "Internal medicine specialist"
+    ],
+    "74107003": [
+      "Endocrinologist",
+      "Internal medicine specialist"
+    ],
+    "74351001": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "Paediatrician"
+    ],
+    "74400008": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "74699008": [
+      "Pulmonologist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "74728003": [
+      "Endocrinologist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "74814004": [
+      "Orthopedic"
+    ],
+    "75119003": [
+      "General Surgeon",
+      "Radiologist",
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "75258004": [
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "75441006": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "76272004": [
+      "Dermatologist",
+      "Internal medicine specialist"
+    ],
+    "76618002": [
+      "Nephrologist",
+      "Urologist",
+      "General Surgeon",
+      "Pediatric Nephrologist"
+    ],
+    "76627001": [
+      "Neurologist",
+      "Ophthalmologist",
+      "General Surgeon",
+      "ENT",
+      "Internal medicine specialist"
+    ],
+    "77090002": [
+      "Dermatologist"
+    ],
+    "77377001": [
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician"
+    ],
+    "77386006": [
+      "Radiologist",
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "77489003": [
+      "Ophthalmologist"
+    ],
+    "77971008": [
+      "Ophthalmologist"
+    ],
+    "78048006": [
+      "Dermatologist",
+      "General Physician"
+    ],
+    "78146007": [
+      "Endocrinologist",
+      "General Surgeon",
+      "Dermatologist"
+    ],
+    "78275009": [
+      "Pulmonologist",
+      "ENT",
+      "Internal medicine specialist"
+    ],
+    "782957005": [
+      "Dermatologist"
+    ],
+    "78569004": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "78737005": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "792004": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "79740000": [
+      "Dentist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "79883001": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "79962008": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "80327007": [
+      "ENT",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "80384002": [
+      "Pulmonologist",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "81004002": [
+      "Neurologist",
+      "General Surgeon",
+      "Plastic Surgeon",
+      "Dermatologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "81060008": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Gastroenterologist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "815008": [
+      "Ophthalmologist"
+    ],
+    "82271004": [
+      "Neurologist",
+      "Plastic Surgeon",
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "82272006": [
+      "ENT",
+      "General Physician"
+    ],
+    "8229003": [
+      "ENT"
+    ],
+    "82639001": [
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "82649003": [
+      "Ophthalmologist"
+    ],
+    "827108008": [
+      "Orthopedic"
+    ],
+    "82796002": [
+      "Pulmonologist",
+      "Dermatologist"
+    ],
+    "833335001": [
+      "Orthopedic"
+    ],
+    "83482000": [
+      "Psychiatrist",
+      "Internal medicine specialist"
+    ],
+    "83901003": [
+      "Ophthalmologist",
+      "Rheumatologist",
+      "Dentist",
+      "Dermatologist",
+      "Immunologist",
+      "Internal medicine specialist"
+    ],
+    "84017003": [
+      "Orthopedic"
+    ],
+    "840539006": [
+      "Pulmonologist",
+      "Radiologist",
+      "Intensivist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "840580004": [
+      "General Surgeon",
+      "Internal medicine specialist",
+      "Vascular medicine specialist",
+      "General Physician"
+    ],
+    "84089009": [
+      "General Surgeon",
+      "Gastroenterologist"
+    ],
+    "84416003": [
+      "General Physician",
+      "Orthopedic"
+    ],
+    "84757009": [
+      "Neurologist",
+      "Internal medicine specialist",
+      "Paediatrician"
+    ],
+    "84849002": [
+      "Dermatologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "85777005": [
+      "Ophthalmologist",
+      "General Physician"
+    ],
+    "85828009": [
+      "Rheumatologist",
+      "Immunologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "86044005": [
+      "Neurologist",
+      "Physiotherapist",
+      "Internal medicine specialist"
+    ],
+    "860914002": [
+      "Psychiatrist",
+      "General Surgeon",
+      "IVF Specialist",
+      "Andrologist",
+      "Obstetrician",
+      "Internal medicine specialist",
+      "Gynaecologist"
+    ],
+    "87284002": [
+      "Pulmonologist",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "87433001": [
+      "Pulmonologist",
+      "Internal medicine specialist"
+    ],
+    "87522002": [
+      "Obstetrician",
+      "Clinical haematologist",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "87614000": [
+      "Ophthalmologist"
+    ],
+    "88050005": [
+      "ENT"
+    ],
+    "88348008": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "88518009": [
+      "Ophthalmologist",
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "88616000": [
+      "Dermatologist",
+      "Immunologist",
+      "Internal medicine specialist"
+    ],
+    "89155008": [
+      "Cardiologist",
+      "Rheumatologist",
+      "Immunologist",
+      "Internal medicine specialist",
+      "Gastroenterologist"
+    ],
+    "897657000": [
+      "Immunologist",
+      "ENT",
+      "Allergy specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "89927005": [
+      "ENT"
+    ],
+    "9014002": [
+      "Dermatologist",
+      "Immunologist",
+      "Internal medicine specialist"
+    ],
+    "90176007": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "90560007": [
+      "Internal medicine specialist",
+      "Orthopedic"
+    ],
+    "9078005": [
+      "ENT",
+      "General Physician"
+    ],
+    "90935002": [
+      "Clinical geneticist",
+      "Clinical haematologist",
+      "Internal medicine specialist",
+      "Paediatrician"
+    ],
+    "90979004": [
+      "ENT",
+      "Internal medicine specialist",
+      "General Physician",
+      "Paediatrician"
+    ],
+    "91514001": [
+      "Ophthalmologist"
+    ],
+    "91613004": [
+      "Orthopedic"
+    ],
+    "91637004": [
+      "Neurologist",
+      "Internal medicine specialist"
+    ],
+    "93163002": [
+      "General Surgeon"
+    ],
+    "95239003": [
+      "ENT",
+      "General Physician"
+    ],
+    "95315005": [
+      "IVF Specialist",
+      "Obstetrician",
+      "Gynaecologist"
+    ],
+    "95453001": [
+      "Neurologist",
+      "Radiologist",
+      "Internal medicine specialist",
+      "Neurosurgeon"
+    ],
+    "95570007": [
+      "Nephrologist",
+      "Urologist",
+      "General Surgeon",
+      "Internal medicine specialist",
+      "General Physician"
+    ],
+    "95605009": [
+      "Obstetrician",
+      "Internal medicine specialist",
+      "Gynaecologist"
+    ],
+    "95695004": [
+      "Ophthalmologist"
+    ],
+    "9631008": [
+      "Spine Surgeon",
+      "Orthopedic"
+    ],
+    "9682006": [
+      "Orthopedic"
+    ],
+    "9826008": [
+      "Ophthalmologist",
+      "General Physician"
+    ]
+  },
+  "speciality_id_to_name": {
+    "1": "Cardiologist",
+    "2": "Dentist",
+    "3": "Dermatologist",
+    "4": "ENT",
+    "5": "Gastroenterologist",
+    "6": "General Physician",
+    "7": "Gynaecologist",
+    "8": "Orthopedic",
+    "9": "Paediatrician",
+    "10": "Neurologist",
+    "11": "Nephrologist",
+    "12": "Urologist",
+    "13": "Ophthalmologist",
+    "14": "Oncologist",
+    "15": "Endocrinologist",
+    "16": "Psychiatrist",
+    "17": "General Surgeon",
+    "18": "Rheumatologist",
+    "21": "Pulmonologist",
+    "22": "Radiologist",
+    "23": "Plastic Surgeon",
+    "24": "Spine Surgeon",
+    "25": "IVF Specialist",
+    "27": "Physiotherapist",
+    "29": "Intensivist",
+    "30": "Chest Physician",
+    "31": "Diabetologist",
+    "32": "Immunologist",
+    "33": "Oral & Maxillofacial Surgeon",
+    "35": "Andrologist",
+    "39": "Pediatric Nephrologist",
+    "40": "Obstetrician",
+    "41": "Clinical geneticist",
+    "42": "Allergy specialist",
+    "43": "Clinical haematologist",
+    "44": "Internal medicine specialist",
+    "45": "Trauma Specialist",
+    "46": "Vascular medicine specialist",
+    "47": "Neurosurgeon"
+  },
+  "conditions_without_speciality": [
+    "3868",
+    "6836001"
+  ]
+}

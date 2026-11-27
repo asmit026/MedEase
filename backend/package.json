@@ -1,0 +1,16 @@
+{
+  "name": "medease-backend",
+  "version": "1.0.0",
+  "description": "MedEase AI Express.js Backend",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}

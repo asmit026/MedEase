@@ -1,7 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { useAssessment } from '../context/AssessmentContext';
 
 export default function HomePage() {
+  const { resetAssessment } = useAssessment();
   return (
     <div className="flex flex-col w-full">
       {/* Minimal Ambient Glow Background Layer */}
@@ -32,6 +34,7 @@ export default function HomePage() {
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4 w-full sm:w-auto">
             <Link
               to="/assessment"
+              onClick={() => resetAssessment()}
               className="w-full sm:w-auto group inline-flex items-center justify-center gap-2 bg-primary text-on-primary text-base font-medium px-6 py-3.5 rounded-lg shadow-sm hover:bg-primary-container transition-all duration-200"
             >
               <span>Start Health Assessment</span>
